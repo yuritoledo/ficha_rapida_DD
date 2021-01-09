@@ -1,9 +1,11 @@
 import Link from 'next/link'
 import Layout from '../components/Layout'
 
+import { Button } from "@chakra-ui/react"
+
 const IndexPage = () => (
-  <Layout title="Home | Next.js + TypeScript Example">
-    <h1>Hello Next.js 👋</h1>
+  <Layout title="Ficha rápida D&D 5e">
+    <Button>as</Button>
     <p>
       <Link href="/about">
         <a>About</a>
