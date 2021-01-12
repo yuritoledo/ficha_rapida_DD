@@ -9,3 +9,11 @@ Webapp para agilizar a criação de personagem de D&D 5ª edição
 - ContextAPI
 - Paciência
 - Unhas roídas de nervoso
+
+## Features
+- Poderá ser pública ou privada;
+- Caso seja privada:
+  - Login com Google;
+- Auto-saving;
+- Vincular ficha com DungeonMaster
+- Internacionalização (pt-BR e en-US)
